@@ -10,9 +10,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Environment variables
-.env
-
 # Dependency directories
 node_modules/
 jspm_packages/
@@ -48,3 +45,6 @@ build/
 # Miscellaneous
 *.swp
 *.swo
+
+# Environment variables
+.env
