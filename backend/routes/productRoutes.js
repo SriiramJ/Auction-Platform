@@ -1,5 +1,5 @@
 import express from "express";
-import Product from "./models/productModel.js";
+import Product from "../models/ProductModel.js";
 import { verifyToken } from "../middleware/authMiddleware.js";
 
 const router = express.Router();
